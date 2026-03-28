@@ -26,6 +26,7 @@ The system integrates computer vision, audio processing, and AI techniques to au
 ![system architecture](media/architecture.png)
 
 ### Visualization Dashboard
+![viz dashboard](media/hero.png)
 ![viz dashboard](media/dashboard.jpg)
 
 
