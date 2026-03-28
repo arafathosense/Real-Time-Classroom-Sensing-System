@@ -48,13 +48,7 @@ source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 ```
 
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the dashboard frontend:
+3. Run the dashboard frontend:
 
 ```bash
 # If React
